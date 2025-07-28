@@ -25,6 +25,7 @@ of code
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+![This is an image.](<img width="640" height="364" alt="image" src="https://github.com/user-attachments/assets/76643fcf-a5bb-44b9-846b-07e4af143a93" />
+)
 
 nano README.md
